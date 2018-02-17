@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/menu_home" />
+
+    <item
+        android:id="@+id/menu_yupin"
+        android:enabled="true"
+        android:icon="@drawable/ic_yupin"
+        android:title="@string/menu_yupin" />
+
+    <item
+        android:id="@+id/menu_ningnong"
+        android:enabled="true"
+        android:icon="@drawable/ic_ningnong"
+        android:title="@string/menu_ningnong" />
+
+</menu>
